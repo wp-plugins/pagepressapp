@@ -1,6 +1,8 @@
 === PagePressApp ===
-Contributors: PagePressApp
-Donate link: http://www.pagepressapp.com/
+Contributors: pagepress
+Plugin Name: PagePressApp.com Auto Wall Post
+Plugin URI: http://www.pagepressapp.com
+Author: PagePressApp
 Tags: facebook fanpage, wordpress, wordpress to facebook, wordpress to facebook fanpage
 Requires at least: 3.0.0
 Tested up to: 3.2
@@ -28,5 +30,3 @@ You can use the built in installer and upgrader, or you can install the plugin m
 
 Please read these FAQs at http://pagepressapp.com/faq
 
-
-<?php code(); // goes in backticks ?>
