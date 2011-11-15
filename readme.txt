@@ -4,7 +4,7 @@ Donate link: http://www.pagepressapp.com/
 Tags: facebook fanpage, wordpress, wordpress to facebook, wordpress to facebook fanpage
 Requires at least: 3.0.0
 Tested up to: 3.2
-Stable tag: trunk
+Stable tag: 1.0
 
 This plugin will help to publish your blog's post to your Facebook fanpage's wall on auto-pilot.
 
