@@ -18,7 +18,7 @@ It's a Facebook app that 'connects' Wordpress blog's content to a fanpage. Basic
 
 You can use the built in installer and upgrader, or you can install the plugin manually.
 
-1. You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory the top-level folder. Just upload the folder "wp_pagepress" to the directory /wp-content/plugins/.
+1. You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory the top-level folder. Just upload the folder "pagepressapp" to the directory /wp-content/plugins/.
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
