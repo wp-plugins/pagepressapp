@@ -1,4 +1,4 @@
-=== PagePressApp ===
+=== PagePressApp.com Auto Wall Post ===
 Contributors: pagepress
 Plugin Name: PagePressApp.com Auto Wall Post
 Plugin URI: http://www.pagepressapp.com
