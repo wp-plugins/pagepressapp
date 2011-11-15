@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== PagePressApp ===
 Contributors: PagePressApp
 Donate link: http://www.pagepressapp.com/
 Tags: facebook fanpage, wordpress, wordpress to facebook, wordpress to facebook fanpage
