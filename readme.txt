@@ -27,3 +27,6 @@ You can use the built in installer and upgrader, or you can install the plugin m
 == Frequently Asked Questions ==
 
 Please read these FAQs at http://pagepressapp.com/faq
+
+
+<?php code(); // goes in backticks ?>
