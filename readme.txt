@@ -1,6 +1,6 @@
-=== PagePressApp.com Auto Wall Post ===
+=== PagePressApp.com Auto Facebook Fanpage Wall Post ===
 Contributors: pagepress
-Plugin Name: PagePressApp.com Auto Wall Post
+Plugin Name: PagePressApp.com Auto Facebook Fanpage Wall Post
 Plugin URI: http://www.pagepressapp.com
 Author: PagePressApp
 Tags: facebook fanpage, wordpress, wordpress to facebook, wordpress to facebook fanpage
@@ -8,11 +8,11 @@ Requires at least: 3.0.0
 Tested up to: 3.2
 Stable tag: 1.50
 
-This plugin will help to publish your blog's post to your Facebook fanpage's wall on auto-pilot.
+This plugin will help to publish your Wordpress blog's posts to your Facebook fanpage's wall on auto-pilot.
 
 == Description ==
 
-It's a Facebook app that 'connects' Wordpress blog's content to a fanpage. Basically, the app will enable the content posted on a Wordpress blog to appear on a fanpage automatically.
+It's a Facebook app that "syndicates" WordPress blog's content to a fanpage. Basically, the app will enable the content posted on a WordPress blog to appear on a Facebook fanpage and also the Wall automatically.
 
 == Installation ==
 
