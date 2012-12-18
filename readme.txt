@@ -5,8 +5,8 @@ Plugin URI: http://www.pagepressapp.com
 Author: PagePressApp
 Tags: facebook fan page, wordpress, wordpress to facebook, wordpress to facebook fanpage
 Requires at least: 3.0.0
-Tested up to: 3.2
-Stable tag: 1.60
+Tested up to: 3.5
+Stable tag: 1.70
 
 This plugin will help to publish your Wordpress blog's posts to your Facebook fan page's wall on auto-pilot.
 
